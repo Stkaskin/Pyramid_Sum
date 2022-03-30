@@ -1,0 +1,16 @@
+C:\Users\Askin\source\repos\intern\bin\Debug\net5.0\intern.exe
+C:\Users\Askin\source\repos\intern\bin\Debug\net5.0\intern.deps.json
+C:\Users\Askin\source\repos\intern\bin\Debug\net5.0\intern.runtimeconfig.json
+C:\Users\Askin\source\repos\intern\bin\Debug\net5.0\intern.runtimeconfig.dev.json
+C:\Users\Askin\source\repos\intern\bin\Debug\net5.0\intern.dll
+C:\Users\Askin\source\repos\intern\bin\Debug\net5.0\ref\intern.dll
+C:\Users\Askin\source\repos\intern\bin\Debug\net5.0\intern.pdb
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\intern.csproj.AssemblyReference.cache
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\intern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\intern.AssemblyInfoInputs.cache
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\intern.AssemblyInfo.cs
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\intern.csproj.CoreCompileInputs.cache
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\intern.dll
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\ref\intern.dll
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\intern.pdb
+C:\Users\Askin\source\repos\intern\obj\Debug\net5.0\intern.genruntimeconfig.cache
